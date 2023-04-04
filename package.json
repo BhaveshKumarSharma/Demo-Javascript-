@@ -1,0 +1,11 @@
+{
+  "name": "javascript-30",
+  "version": "1.0.0",
+  "description": "Javascript Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavesh Kumar Sharma",
+  "license": "ISC"
+}
