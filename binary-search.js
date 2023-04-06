@@ -6,6 +6,7 @@
 //   for (let i = 0; i < array.length; i++) {
 //     if (array[i] === k) {
 //       console.log(k, "found at", i);
+//       break;
 //     }
 //     if (array[i] !== k) {
 //       console.log(k, "not found");
